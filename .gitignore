@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+*.sqlite
+*.sqlite3
+*.db
+*.csv
+history/
+backups/
